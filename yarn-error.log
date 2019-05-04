@@ -1,0 +1,96 @@
+Arguments: 
+  /Users/jacobcavazos/.nvm/versions/node/v11.13.0/bin/node /Users/jacobcavazos/.nvm/versions/node/v11.13.0/bin/yarn install
+
+PATH: 
+  /Users/jacobcavazos/.rvm/gems/ruby-2.6.2/bin:/Users/jacobcavazos/.rvm/gems/ruby-2.6.2@global/bin:/Users/jacobcavazos/.rvm/rubies/ruby-2.6.2/bin:/Users/jacobcavazos/.rvm/bin:/usr/local/sbin:~/.local/bin:/usr/local/opt/gettext/bin:/Users/jacobcavazos/.nvm/versions/node/v11.13.0/bin:/Users/jacobcavazos/anaconda3/bin:/Users/jacobcavazos/bin:/usr/local/bin:/usr/local/opt/ccache/libexec:/Users/jacobcavazos/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/share/dotnet:~/.dotnet/tools:/usr/local/go/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/opt/yarn/bin:'yarn global bin':/opt/yarn/bin:/usr/local/opt/fzf/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  11.13.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/jacobcavazos/gatsby/personal-site-port/package.json: Unexpected string in JSON at position 1340
+      at JSON.parse (<anonymous>)
+      at /Users/jacobcavazos/.nvm/versions/node/v11.13.0/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/jacobcavazos/.nvm/versions/node/v11.13.0/lib/node_modules/yarn/lib/cli.js:304:30)
+      at /Users/jacobcavazos/.nvm/versions/node/v11.13.0/lib/node_modules/yarn/lib/cli.js:315:13
+
+npm manifest: 
+  {
+    "name": "jacob-cavazos-personal-site",
+    "private": true,
+    "description": "Jacob Cavazos personal site built with React, Gatsby, Bootstrap, and Material Design",
+    "version": "2.0.0",
+    "author": "Jacob Cavazos <jake@jacobcavazos.com>",
+    "dependencies": {
+      "@svgr/webpack": "^4.1.0",
+      "enzyme": "^3.0.0",
+      "apollo-link": "^1.2.11",
+      "apollo-utilities": "^1.2.1",
+      "ci-info": "2.0.0",
+      "enzyme": "3",
+      "gatsby": "^2.0.76",
+      "gatsby-cli": "^2.5.4",
+      "gatsby-image": "^2.0.20",
+      "gatsby-plugin-manifest": "^2.0.9",
+      "gatsby-plugin-offline": "^2.0.16",
+      "gatsby-plugin-react-helmet": "^3.0.2",
+      "gatsby-plugin-sharp": "^2.0.14",
+      "gatsby-plugin-svgr": "^2.0.1",
+      "gatsby-source-filesystem": "^2.0.8",
+      "gatsby-transformer-sharp": "^2.1.8",
+      "graphql": "^0.13.0",
+      "mdbreact": "git+https://oauth2:_7oBuv6K5-C2aZrzL65p@git.mdbootstrap.com/mdb/react/re-pro.git",
+      "global": "^4.3.2",
+      "graphql": "0.13.0",
+      "graphql-config": "^2.2.1",
+      "graphql-import": "^0.7.1",
+      "mdbreact": "git+https://oauth2:_7oBuv6K5-C2aZrzL65p@git.mdbootstrap.com/mdb/react/re-pro.git",
+      "node-pre-gyp": "0.10.3",
+      "prop-types": "^15.6.2",
+      "react": "^16.6.3",
+      "react-dom": "^16.6.3",
+      "react-helmet": "^5.2.0",
+      "react-popper": "=0.7.4",
+      "react-twitter-embed": "^2.0.4"
+      "react-popper": "^0.7.4",
+      "react-twitter-embed": "^2.0.4",
+      "ts-invariant": "0.3.2"
+    },
+    "keywords": [
+      "gatsby",
+      "material-design",
+      "material-design-for-bootstrap",
+      "React"
+    ],
+    "license": "MIT",
+    "scripts": {
+      "build": "yarn build",
+      "develop": "yarn develop",
+      "start": "yarn run develop",
+      "now-build": "gatsby build",
+      "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    },
+    "devDependencies": {
+      "babel-eslint": "^10.0.1",
+      "eslint": "^5.13.0",
+      "eslint-config-standard": "^12.0.0",
+      "eslint-plugin-import": "^2.16.0",
+      "eslint-plugin-node": "^8.0.1",
+      "eslint-plugin-promise": "^4.0.1",
+      "eslint-plugin-react": "^7.12.4",
+      "eslint-plugin-standard": "^4.0.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
