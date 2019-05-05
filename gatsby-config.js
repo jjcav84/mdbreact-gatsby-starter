@@ -15,6 +15,7 @@ module.exports = {
       }
     },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-svgr`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
