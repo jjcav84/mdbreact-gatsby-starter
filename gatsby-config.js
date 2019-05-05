@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Static Single Page React App Template',
     description: 'Built with React, MDbootstrap, and Gatsby',
-    siteUrl: '',
+    siteUrl: 'https://example.com',
     author: 'jacob-cavazos'
   },
   plugins: [
@@ -28,6 +28,14 @@ module.exports = {
         start_url: `/`,
         display: `standalone`,
         icon: 'src/images/icon.png'
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.example.com',
+        sitemap: 'https://www.example.com/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
       }
     }
     //  {
