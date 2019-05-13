@@ -7,3 +7,5 @@ Run `yarn` to install
 Run `gatsby develop` to run local server on localhost:8000
 
 Run `gatsby build` to build the static site and place the files into the public folder
+
+You can find more information at the official GatsbyJS [starter library page](https://www.gatsbyjs.org/starters/jjcav84/mdbreact-gatsby-starter/)
