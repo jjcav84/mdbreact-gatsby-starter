@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.cache/
+.vscode/
+*.tgz
+now.json
+public/
+CNAME
