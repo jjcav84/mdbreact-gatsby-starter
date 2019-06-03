@@ -1,6 +1,6 @@
 {
   "name": "react-static-site-template",
-  "description": "Single Page web app template built with React, Gatsby, Bootstrap, Material Design, Webpack, ESLint",
+  "description": "Single Page web app starter built with React, Gatsby, Bootstrap, Material Design, Webpack, ESLint",
   "version": "2.0.0",
   "author": "Jacob Cavazos <jake@jacobcavazos.com>",
   "dependencies": {
