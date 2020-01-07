@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "author": "Jacob Cavazos <jake@jacobcavazos.com>",
   "dependencies": {
-    "@svgr/webpack": "4.2.0",
+    "@svgr/webpack": "4.3.3",
     "apollo-link": "1.2.11",
     "apollo-utilities": "1.2.1",
     "ci-info": "2.0.0",
