@@ -22,7 +22,7 @@
     "gatsby-plugin-svgr": "2.0.2",
     "gatsby-source-filesystem": "2.0.33",
     "gatsby-transformer-sharp": "2.1.19",
-    "global": "4.3.2",
+    "global": "4.4.0",
     "graphql": "0.13.0",
     "graphql-config": "2.2.1",
     "graphql-import": "0.7.1",
