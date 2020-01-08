@@ -23,7 +23,7 @@
     "gatsby-source-filesystem": "2.0.33",
     "gatsby-transformer-sharp": "2.1.19",
     "global": "4.4.0",
-    "graphql": "0.13.0",
+    "graphql": "0.13.2",
     "graphql-config": "2.2.1",
     "graphql-import": "0.7.1",
     "mdbreact": "4.13.0",
