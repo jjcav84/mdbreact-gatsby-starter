@@ -26,7 +26,7 @@
     "graphql": "0.13.0",
     "graphql-config": "2.2.1",
     "graphql-import": "0.7.1",
-    "mdbreact": "4.13.0",
+    "mdbreact": "4.24.0",
     "node-pre-gyp": "0.10.3",
     "prop-types": "15.7.2",
     "react": "16.12.0",
