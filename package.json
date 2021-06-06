@@ -24,7 +24,7 @@
     "gatsby-transformer-sharp": "2.3.11",
     "global": "4.4.0",
     "graphql": "14.5.8",
-    "graphql-config": "2.2.1",
+    "graphql-config": "3.3.0",
     "graphql-import": "0.7.1",
     "mdbreact": "4.24.0",
     "node-pre-gyp": "0.14.0",
